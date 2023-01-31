@@ -27,7 +27,7 @@ export class UserSeedService {
           firstName: 'Super',
           lastName: 'Admin',
           email: 'admin@example.com',
-          password: 'secret',
+          password: 'password',
           role: {
             id: RoleEnum.admin,
             name: 'Admin',
